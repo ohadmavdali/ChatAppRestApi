@@ -2,4 +2,4 @@
 
 # https://abrachatapp.herokuapp.com/
 
-# for instructions - check postman files directory
+# for instructions - check Postman requirements file pdf
