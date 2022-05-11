@@ -8,7 +8,7 @@ CURD operations:
 •	Write message<br/>
 •	Get all messages for a specific user<br/>
 •	Get all unread messages for a specific user<br/>
-•	Read message<br/>
+•	Read message (return one message) <br/>
 •	Delete message (as owner or as receiver)
 
 # Instructions:
