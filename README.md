@@ -20,8 +20,9 @@ Make sure to mark it as a comment again to avoid duplicate data in the next save
 
 
 1.	Create a user: GET https://abrachatapp.herokuapp.com/register
-   ![image](https://ibb.co/MkF6fHN)
-   
+
+   <img width="843" alt="צילום מסך 2022-05-11 ב-21 16 21" src="https://user-images.githubusercontent.com/63442785/167920479-537b7d56-6739-448d-af72-77e0298928f5.png">
+
 2.	Login to user: GET https://abrachatapp.herokuapp.com/login
 
 3.	Get All users: GET https://abrachatapp.herokuapp.com/users
