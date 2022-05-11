@@ -1,6 +1,17 @@
-# ChatAppRestApi
+# Chat App Rest API - Node.js, Express.js, MongoDB, Postman
 
 # https://abrachatapp.herokuapp.com/
+
+MERN stack chat application rest API backend system that is responsible for handling messages between users.
+CURD operations:
+
+•	Write message
+•	Get all messages for a specific user
+•	Get all unread messages for a specific user
+•	Read message
+•	Delete message (as owner or as receiver)
+
+![image](https://user-images.githubusercontent.com/63442785/167919890-ac263979-4495-44bc-bb7f-d088f0b52d87.png)
 
 # Instructions:
 
