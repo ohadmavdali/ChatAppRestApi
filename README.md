@@ -2,7 +2,7 @@
 
 # https://abrachatapp.herokuapp.com/
 
-MERN stack chat application rest API backend system that is responsible for handling messages between users.
+MERN stack chat application rest API backend system that is responsible for handling messages between users.<br/>
 CURD operations:
 
 •	Write message<br/>
