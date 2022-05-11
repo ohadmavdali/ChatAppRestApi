@@ -5,10 +5,10 @@
 MERN stack chat application rest API backend system that is responsible for handling messages between users.
 CURD operations:
 
-•	Write message
-•	Get all messages for a specific user
-•	Get all unread messages for a specific user
-•	Read message
+•	Write message<br/>
+•	Get all messages for a specific user<br/>
+•	Get all unread messages for a specific user<br/>
+•	Read message<br/>
 •	Delete message (as owner or as receiver)
 
 # Instructions:
